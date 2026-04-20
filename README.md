@@ -380,8 +380,3 @@ REMEMBER: If you find a bug, or have an idea for some improvement, I wanna know
   Cheers, have fun...
 
 	Tony Miceli
-
-
-PS. Anyone out there in need of a programmer who is about to complete a
-    Bachelor of Science degree (computing major, of course, AND with a
-    distinction average, but that's about it for my self-advertisement *8-)
