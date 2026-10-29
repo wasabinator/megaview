@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Moved to https://codeberg.org/wasabinator/megaview
+
 # megaview - IFF/GIF file/download view for the Commodore Amiga computer
 
 Copyright (c) 1991, 1992, 1993 by Tony Miceli.  All rights reserved.
